@@ -62,7 +62,7 @@
 
     <div class="main__footer">
         <p class="note">Drag and drop to reorder list.</p>
-        <p class="attribution">Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="https://github.com/ApplePieGiraffe" target="_blank">ApplePieGiraffe</a>.</p>
+        <p class="attribution">Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. Coded by <a href="https://github.com/pijeismart" target="_blank">PijeiSmart</a>.</p>
     </div>
 </main>
 
